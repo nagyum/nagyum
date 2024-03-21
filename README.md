@@ -26,10 +26,10 @@
 
 ## 🗂️ Activities
 ### Language
-OPIc English IH(Intermediate High) 나왔으면
-TOEIC 945 [2022.10.11]
-SQLD
-정보처리기사 필기 합격
+- OPIc English IH(Intermediate High) 나왔으면 
+- TOEIC 945 [2022.10.11]
+- SQLD
+- 정보처리기사 필기 합격
 
 
 ## 🎓 Education
