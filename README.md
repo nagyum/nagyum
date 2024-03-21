@@ -37,6 +37,6 @@ Sookmyung Women's University, Major in Computer Science [2018.03 ~ 2023.08]
 
 ## ✅ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagyum&show_icons=true&theme=default)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wildanimal19)](https://solved.ac/wildanimal19/)
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wildanimal19)](https://solved.ac/wildanimal19)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:fe7ca9,100:64b3f4&height=175&section=footer&reversal=true)
