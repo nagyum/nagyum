@@ -27,7 +27,7 @@
 ## 🗂️ Activities
 ### Language
 - TOEIC 945 [2022.10.11]
-- SQLD
+- SQLD [2024.04.05]
 - 정보처리기사 [2024.06.18]
 - TOEIC SPEAKING AL [2024.09.14]
 
