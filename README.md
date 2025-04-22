@@ -25,6 +25,7 @@
 - 대학생을 위한 부동산 정보 웹 페이지, 하리 서울 (졸업 작품)
 - Fandom-K ,아이돌 후원 사이트 (코드잇 프로젝트 - 기초 )
 - Taskify, 일정 관리 사이트 (코드잇 프로젝트 - 중급 )
+- GlobalNomad, 체험 예약 사이트 (코드잇 프로젝트 - 고급 )
 
 ## 🗂️ Activities
 ### Language
@@ -36,6 +37,7 @@
 
 ## 🎓 Education
 Sookmyung Women's University, Major in Computer Science [2018.03 ~ 2023.08]
+Codeit, Frontend Developer [2024.10 ~ 2025.04]
 
 ## ✅ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagyum&show_icons=true&theme=default)
