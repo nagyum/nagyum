@@ -36,8 +36,8 @@
 
 
 ## 🎓 Education
-Sookmyung Women's University, Major in Computer Science [2018.03 ~ 2023.08]
-Codeit, Frontend Developer [2024.10 ~ 2025.04]
+- Sookmyung Women's University, Major in Computer Science [2018.03 ~ 2023.08]
+- Codeit, Frontend Developer [2024.10 ~ 2025.04]
 
 ## ✅ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagyum&show_icons=true&theme=default)
