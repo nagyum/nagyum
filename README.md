@@ -40,6 +40,8 @@
 - Codeit, Frontend Developer [2024.10 ~ 2025.04]
 
 ## ✅ Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagyum&layout=compact)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagyum&show_icons=true&theme=default)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wildanimal19)](https://solved.ac/wildanimal19)
