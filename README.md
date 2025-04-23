@@ -40,7 +40,6 @@
 - Codeit, Frontend Developer [2024.10 ~ 2025.04]
 
 ## ✅ Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagyum&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagyum&show_icons=true&theme=default)
 [![Solved.ac
